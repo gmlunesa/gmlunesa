@@ -6,7 +6,7 @@
 <img src='https://raw.githubusercontent.com/gmlunesa/gmlunesa/development/assets/rei.png' align='right' width="22%" alt="Rei Ayanami"/>
 
 <p align="center">
-  Why, hello there. Welcome to my 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒄𝒐𝒓𝒏𝒆𝒓. Are you lost soul? Are you a stalker? Or are you a data mining bot employed by <s>the reptilian overload</s> Mark Zuckerberg?   Whoever you are, it's nice to meet you. <img src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png" width="18" height="18"/>
+  Why, hello there. Welcome to my 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒄𝒐𝒓𝒏𝒆𝒓. Are you a lost soul? Are you a stalker? Or are you a data mining bot employed by <s>the reptilian overload</s> Mark Zuckerberg?   Whoever you are, it's nice to meet you. <img src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png" width="18" height="18"/>
 <p>
 
 <p align="center">
