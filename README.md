@@ -53,6 +53,11 @@
 ## 📰 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a wholesome chat space with Tensorflow](https://blog.gmlunesa.com/creating-a-wholesome-chat-space-with-tensorflow)
+- [One Year of .NET 6: My Top Favorite Features](https://blog.gmlunesa.com/one-year-net-6-my-top-favorite)
+- [Building a cross platform application with .NET MAUI](https://blog.gmlunesa.com/building-a-cross-platform-application)
+- [.NET 6: Global Using Directives](https://blog.gmlunesa.com/net-6-global-using-directives)
+- [Develop and deploy an optimized site in a day](https://blog.gmlunesa.com/develop-and-deploy-an-optimized-site-in-a-day)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![visitors](https://komarev.com/ghpvc/?username=gmlunesa&style=flat-square)
