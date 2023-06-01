@@ -54,10 +54,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploy serverless Node.js Functions to Azure Functions](https://blog.gmlunesa.com/deploy-serverless-nodejs-functions-azure)
+- [Using Options pattern on ASP.NET](https://blog.gmlunesa.com/using-options-pattern-on-aspnet)
 - [C#: Int.Parse versus Convert.ToInt32](https://blog.gmlunesa.com/c-intparse-versus-converttoint32)
 - [Creating a wholesome chat space with Tensorflow](https://blog.gmlunesa.com/creating-a-wholesome-chat-space-with-tensorflow)
 - [One Year of .NET 6: My Top Favorite Features](https://blog.gmlunesa.com/one-year-net-6-my-top-favorite)
-- [Building a cross platform application with .NET MAUI](https://blog.gmlunesa.com/building-a-cross-platform-application)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![visitors](https://komarev.com/ghpvc/?username=gmlunesa&style=flat-square)
