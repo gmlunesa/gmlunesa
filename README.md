@@ -53,11 +53,11 @@
 ## 📰 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection: AddSingleton, AddScoped, AddTransient Differences](https://gmlunesa.hashnode.dev/dependency-injection-addsingleton-addscoped-addtransient-differences)
-- [Is it worth learning C# in 2024?](https://gmlunesa.hashnode.dev/is-it-worth-learning-c-in-2024)
-- [Deploy serverless Node.js Functions to Azure Functions](https://gmlunesa.hashnode.dev/deploy-serverless-nodejs-functions-azure)
-- [Using Options pattern on ASP.NET](https://gmlunesa.hashnode.dev/using-options-pattern-on-aspnet)
-- [C#: Int.Parse versus Convert.ToInt32](https://gmlunesa.hashnode.dev/c-intparse-versus-converttoint32)
+- [Dependency Injection: AddSingleton, AddScoped, AddTransient Differences](https://blog.gmlunesa.com/dependency-injection-addsingleton-addscoped-addtransient-differences)
+- [Is it worth learning C# in 2024?](https://blog.gmlunesa.com/is-it-worth-learning-c-in-2024)
+- [Deploy serverless Node.js Functions to Azure Functions](https://blog.gmlunesa.com/deploy-serverless-nodejs-functions-azure)
+- [Using Options pattern on ASP.NET](https://blog.gmlunesa.com/using-options-pattern-on-aspnet)
+- [C#: Int.Parse versus Convert.ToInt32](https://blog.gmlunesa.com/c-intparse-versus-converttoint32)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![visitors](https://komarev.com/ghpvc/?username=gmlunesa&style=flat-square)
